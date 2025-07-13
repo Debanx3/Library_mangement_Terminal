@@ -51,7 +51,7 @@ by default the path is given for 'lecture' dir that is present in this .zip file
 
 ### Features: List key functionalities (view slides, sheets, etc.)------------>
 
-![Zip folder structure:](image_url "Folder structure for LMT")
+![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/Folder_structure.png "Folder structure for LMT")
 
 2. Database Path: The original LMT databse path is your 'C:\....' drive where the OS is stores. it will display all directories in your C drive. To update the databse path follow the app rules while it runs
 3. Troubleshooting: Common issues (e.g., "File not found" when opening Reddit.exe – explain it needs the full path to the actual executable, not a shortcut).
