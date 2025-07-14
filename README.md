@@ -48,7 +48,32 @@
    * UI of the application:
    * 
         ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/1.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/2.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/3.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/4.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/5.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/6.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/7.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/8.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/9.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/10.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/11.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/12.jpg "Folder structure for LMT")
+ 
+       ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/13.jpg "Folder structure for LMT")
      
+       
    * Database Path: The original LMT databse path is your 'C:\....' drive where the OS is stores. it will display all directories in your C drive. To update the databse path follow the app       rules while it runs
    * Troubleshooting: Common issues (e.g., "File not found" when opening Reddit.exe – explain it needs the full path to the actual executable, not a shortcut).
    * Contributing: Send a pull request to contribute.....
