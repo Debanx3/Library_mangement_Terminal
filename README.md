@@ -47,7 +47,7 @@
 
    * UI of the application:
    * 
-        ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/Folder_structure.png "Folder structure for LMT")
+        ![Zip folder structure:](https://github.com/Debanx3/Library_mangement_Terminal/blob/main/resources/1.jpg "Folder structure for LMT")
      
    * Database Path: The original LMT databse path is your 'C:\....' drive where the OS is stores. it will display all directories in your C drive. To update the databse path follow the app       rules while it runs
    * Troubleshooting: Common issues (e.g., "File not found" when opening Reddit.exe – explain it needs the full path to the actual executable, not a shortcut).
