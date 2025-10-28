@@ -79,8 +79,8 @@
    * Contributing: Send a pull request to contribute.....
 
 
-* ### License (Optional): MIT License
-* ### Contact/Credits: Debanil Chanda, [DebanX3@github.com](mailto:debanx3@github.com)
+* ## License: MIT License
+* ## Contact/Credits: Debanil Chanda, [DebanX3@github.com](mailto:debanx3@github.com)
 
 
 
